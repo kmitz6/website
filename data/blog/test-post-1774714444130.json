@@ -1,0 +1,16 @@
+{
+  "id": "test-post-1774714444130",
+  "title": "test post",
+  "date": "2026-03-28",
+  "content": [
+    {
+      "type": "text",
+      "value": "test content"
+    },
+    {
+      "type": "image",
+      "src": "/data/blog/images/signal-2021-08-12-235648-1774714444127.jpg",
+      "alt": "Uploaded image"
+    }
+  ]
+}

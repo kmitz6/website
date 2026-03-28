@@ -1,5 +1,22 @@
 [
-    { "id": "post1", "title": "Building a minimalist design system", "date": "2025-03-20" },
-    { "id": "post2", "title": "Exploring brain-computer interfaces for creative coding", "date": "2025-03-10" },
-    { "id": "post3", "title": "The role of visual decay in modern UI", "date": "2025-02-28" }
+  {
+    "id": "test-post-1774714444130",
+    "title": "test post",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "post1",
+    "title": "Building a minimalist design system",
+    "date": "2025-03-20"
+  },
+  {
+    "id": "post2",
+    "title": "Exploring brain-computer interfaces for creative coding",
+    "date": "2025-03-10"
+  },
+  {
+    "id": "post3",
+    "title": "The role of visual decay in modern UI",
+    "date": "2025-02-28"
+  }
 ]
