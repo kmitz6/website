@@ -1,0 +1,10 @@
+{
+    "id": "post3",
+    "title": "The role of visual decay in modern UI",
+    "date": "2025-02-28",
+    "content": [
+        { "type": "text", "value": "Imperfections like glitches, grain, and noise can add character to digital interfaces. I discuss how to incorporate subtle decay effects while maintaining usability." },
+        { "type": "image", "src": "images/decay_example.jpg", "alt": "UI with grain texture" },
+        { "type": "text", "value": "The key is balance: enough to feel organic, not so much that it hinders readability. CSS filters and SVG noise can achieve this." }
+    ]
+}

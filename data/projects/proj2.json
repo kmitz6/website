@@ -1,9 +1,9 @@
 {
     "id": "proj2",
-    "title": "NEON//VOID FRAMEWORK",
+    "title": "Dark UI framework",
     "content": [
-        { "type": "text", "value": "A fully interactive terminal emulator with neon effects and voice commands. Built with vanilla JS, Web Speech API, and custom ASCII animations. It simulates a rogue AI assistant that reacts to commands like 'trace', 'hack', 'manifest'. The UI is 100% keyboard-driven and fits any screen." },
-        { "type": "image", "src": "images/ghost_terminal.jpg", "alt": "terminal screenshot" },
-        { "type": "text", "value": "Full project includes backend simulation and encrypted logs. This is a living artifact of digital rebellion." }
+        { "type": "text", "value": "A lightweight CSS framework optimized for dark mode. It provides base styles, utility classes, and component examples. The goal was to reduce boilerplate while ensuring accessibility." },
+        { "type": "image", "src": "images/framework_ui.jpg", "alt": "Framework components" },
+        { "type": "text", "value": "The framework is used in several personal projects and is easy to customize via CSS variables." }
     ]
 }

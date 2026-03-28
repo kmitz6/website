@@ -1,0 +1,9 @@
+{
+    "id": "proj3",
+    "title": "Generative art playground",
+    "content": [
+        { "type": "text", "value": "A WebGL-based environment for creating and sharing generative art. Users can adjust parameters in real-time and export their creations." },
+        { "type": "image", "src": "images/generative_art.jpg", "alt": "Generative art example" },
+        { "type": "text", "value": "Built with Three.js and GLSL shaders, the playground includes a gallery of community-made pieces." }
+    ]
+}

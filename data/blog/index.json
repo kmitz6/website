@@ -1,4 +1,5 @@
 [
-    { "id": "post1", "title": "NEON DARKNESS: minimalist cyberpunk manifesto", "date": "2025-03-20" },
-    { "id": "post2", "title": "DIY brain-computer interface art", "date": "2025-03-10" }
+    { "id": "post1", "title": "Building a minimalist design system", "date": "2025-03-20" },
+    { "id": "post2", "title": "Exploring brain-computer interfaces for creative coding", "date": "2025-03-10" },
+    { "id": "post3", "title": "The role of visual decay in modern UI", "date": "2025-02-28" }
 ]
