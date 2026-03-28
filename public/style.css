@@ -236,7 +236,7 @@ footer {
 }
 .modal-content {
     max-width: 90%;
-    width: 550px;
+    width: 650px;
     background: #07121e;
     border: 1px solid cyan;
     border-radius: 2rem;
@@ -271,7 +271,6 @@ button {
     font-weight: bold;
 }
 
-/* Image styling for posts/projects */
 .post-image {
     max-width: 100%;
     height: auto;
