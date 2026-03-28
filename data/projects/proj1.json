@@ -1,0 +1,9 @@
+{
+    "id": "proj1",
+    "title": "GHOST TERMINAL",
+    "content": [
+        { "type": "text", "value": "A fully interactive terminal emulator with neon effects and voice commands. Built with vanilla JS, Web Speech API, and custom ASCII animations. It simulates a rogue AI assistant that reacts to commands like 'trace', 'hack', 'manifest'. The UI is 100% keyboard-driven and fits any screen." },
+        { "type": "image", "src": "images/ghost_terminal.jpg", "alt": "terminal screenshot" },
+        { "type": "text", "value": "Full project includes backend simulation and encrypted logs. This is a living artifact of digital rebellion." }
+    ]
+}

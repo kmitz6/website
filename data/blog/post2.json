@@ -1,0 +1,10 @@
+{
+    "id": "post2",
+    "title": "DIY brain-computer interface art",
+    "date": "2025-03-20",
+    "content": [
+        { "type": "text", "value": "Embrace the void. Minimalism isn't absence, it's distilled signal. In a world of noise, we craft interfaces that breathe cyan light and whisper in machine code. The future is not crowded — it's sharp, fast, and intentional. This is the path of the neon ghost. Design systems should feel like abandoned datacenters with heartbeat LEDs. Every pixel matters, every interaction is a ritual." },
+        { "type": "image", "src": "images/neon_void.jpg", "alt": "abstract neon void" },
+        { "type": "text", "value": "The neon glow isn't just decoration; it's a signal of life in the machine. Each line of code is a pulse, each interface a membrane between human and data. Minimalism here is about stripping away the unnecessary, leaving only the essential: contrast, light, purpose." }
+    ]
+}
