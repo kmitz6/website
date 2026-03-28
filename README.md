@@ -2,6 +2,12 @@
 
 This project is a portfolio website with a blog and project showcase, powered by a Node.js backend. Blog posts are stored as separate JSON files and images are saved to the server’s file system. The admin panel allows you to approve comments and create new blog posts with images.
 
+website looks:
+<img width="1063" height="1029" alt="Screenshot from 2026-03-28 17-25-27" src="https://github.com/user-attachments/assets/c2d81215-947b-422e-a505-5f9c2c031a37" />
+
+admin panel:
+<img width="930" height="800" alt="Screenshot from 2026-03-28 17-26-02" src="https://github.com/user-attachments/assets/84655819-b470-4177-a94a-f9e525dae558" />
+
 ---
 
 ## 📦 Prerequisites
